@@ -1,1 +1,29 @@
-2
+[33mcommit 7231a77198c50713ce4ddc5641317b7ba93ae82e[m
+Author: Dvir <xDvir654@gmail.com>
+Date:   Wed Jan 6 01:00:37 2016 +0200
+
+    delete file
+
+[1mdiff --git a/deleteme.txt b/deleteme.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..955c919[m
+[1m--- /dev/null[m
+[1m+++ b/deleteme.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mDelete me[m
+
+[33mcommit 091d52fec064cc057422870ee42bf28021b78943[m
+Author: Dvir <xDvir654@gmail.com>
+Date:   Wed Jan 6 00:56:35 2016 +0200
+
+    2
+
+[1mdiff --git a/read.txt b/read.txt[m
+[1mindex 974a876..d8263ee 100644[m
+[1m--- a/read.txt[m
+[1m+++ b/read.txt[m
+[36m@@ -1 +1 @@[m
+[31m-dsadsa[m
+\ No newline at end of file[m
+[32m+[m[32m2[m
+\ No newline at end of file[m
